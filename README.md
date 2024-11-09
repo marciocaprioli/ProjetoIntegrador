@@ -16,6 +16,7 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 - Antes de iniciar a elaboração da codificação do projeto na prática, foi realizado a revisão da documentação anterior (escopo, requisitos, diagramas UML, etc.);
 - Foi verificado se as informações estavam atualizadas e se todos os pontos críticos foram abordados;
 - Com o objetivo de manter um ciclo de melhorias, a cada período será identificado as áreas que precisam de maior clareza ou detalhes nas execuções;
+- Neste [arquivo]() terá acesso a mais informações e as orientações sobre a atualização do plano deste projeto.
 - Ao longo da execução do projeto, foi compartilhado os documentos solicitando o feedback específico, perguntando sobre a clareza, usabilidade e quaiquer outros aspectos que possam ser melhorados.
 - Para manter tudo organizado, foi criado este repositório para incluir toda a documentação e códigos, com estrutura para facilitar o navegação.
 
