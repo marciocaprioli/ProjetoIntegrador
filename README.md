@@ -18,7 +18,7 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 ## Pré-requisitos
 
 - **WIX**: [Log in](https://pt.wix.com)
-- **GITHUB**: [Repositório](https://github.com)
+- **GITHUB**: [Acessar e repositório](https://github.com)
 - **MySQL**: [Instalar MySQL](https://dev.mysql.com/downloads/installer/)
 
 ---
@@ -28,40 +28,44 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 ### 1. **Clone o repositório**
 
 ```bash
-   git clone https://github.com/arielsardinha/registro_de_energia.git
+   git clone https://github.com/marciocaprioli/ProjetoIntegrador.git
 ```
 
-### 2. **Crie o banco de dados no MySQL Workbench**
+### 2. **Crie o projeto no site do WIX**
 
-Se você tiver dificuldades para instalar e configurar o MySQL, siga este passo a passo neste [vídeo](https://www.youtube.com/watch?v=s0YoPLbox40).
+#### **Passos para criar o projeto:**
 
-#### **Passos para criar o banco e configurar o projeto:**
+1. **Abra o site do WIX**.
+   - Realize o login
+   - Crie o projeto
+   - Iniciar chat com o apoio da IA para obter um painel de controle personalizado
 
-1. **Abra o MySQL Workbench**.
-   - Certifique-se de que o serviço MySQL está rodando corretamente.
+![Criar projeto](https://github.com/user-attachments/assets/2310432d-d3db-45d6-9771-4e308f299137)
 
-2. **Utilize o script SQL do repositório para gerar as tabelas e o usuário padrão**:
+   - 
+
+1. **Utilize o script SQL do repositório para gerar as tabelas e o usuário padrão**:
    - Abra o MySQL Workbench.
    - No menu superior, clique em **File > Open SQL Script...** e selecione o script SQL disponível no repositório.
 
    ![Abrindo script](https://github.com/user-attachments/assets/c9d2b559-e728-4930-a6ac-2a1bd13292b3)
 
-3. **Carregue o script no Workbench**:
+2. **Carregue o script no Workbench**:
    - Com o script carregado, revise as instruções SQL para garantir que tudo está correto.
 
    ![Selecionando script](https://github.com/user-attachments/assets/4d3fcc4d-d1b8-475e-90b2-b58bfc61ec8f)
 
-4. **Execute o script**:
+3. **Execute o script**:
    - Clique no botão de **Executar** (ícone de raio) ou pressione **Ctrl + Enter** para rodar o script e criar as tabelas e o usuário padrão.
 
    ![Executando script](https://github.com/user-attachments/assets/2da67832-1186-4bdc-9d73-834e1f49418a)
 
-5. **Atualize o schema para verificar as tabelas criadas**:
+4. **Atualize o schema para verificar as tabelas criadas**:
    - No painel esquerdo, clique com o **botão direito** sobre o banco de dados e selecione **Refresh All** para atualizar a visualização.
 
    ![Atualizando schema](https://github.com/user-attachments/assets/ab3322df-9c3f-4b90-bc65-19ce50c064f7)
 
-6. **Verifique o usuário admin**:
+5. **Verifique o usuário admin**:
    - Agora, você deve ter um **usuário admin** registrado na tabela, pronto para ser utilizado nos testes e na aplicação.
 
    ![Usuário admin](https://github.com/user-attachments/assets/bb11c043-d033-4685-8de7-6d75798708d8)
