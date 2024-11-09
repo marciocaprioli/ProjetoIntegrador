@@ -36,38 +36,44 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 #### **Passos para criar o projeto:**
 
 2.1. **Abra o site do WIX**.
-   - Realize o login
-   - Crie o projeto
-   - Iniciar chat com o apoio da IA para obter um painel de controle personalizado
+   - Realize o login;
+   - Crie o projeto;
+   - Iniciar chat com o apoio da IA para obter um painel de controle personalizado;
 
 ![Criar projeto](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-   - Descreva com detalhes as histótias de usuários para a criação dos painéis de cada tela da aplicação
-   - Será direcionado para as configurações de domínio, caso queira vincular um já existente, ou criar um novo
-   - Configure os pedidos online
-   - Configure os métodos de pagamentos
+   - Descreva com detalhes as histótias de usuários para a criação dos painéis de cada tela da aplicação;
+   - Será direcionado para as configurações de domínio, caso queira vincular um já existente, ou criar um novo;
+   - Configure os pedidos online;
+   - Configure os métodos de pagamentos;
 
 ![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-   - Após as configurações, edite o catálogo incluíndo as fotos e dados dos produtos que serão divulgados na aplicação
+   - Após as configurações, edite o catálogo incluíndo as fotos e dados dos produtos que serão divulgados na aplicação;
 
 ![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-   - Edite as automações disponíveis na plataforma para otimizar as tarefas da aplicação
+   - Edite as automações disponíveis na plataforma para otimizar as tarefas da aplicação.
 
 ![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
 2.1.1 **Edição do site**:
 
-   - Clique em "Editar site" para realizar o front-end da aplicação contendo os elementos, as informações, seções, páginas, menu
-   - Realize os ajustes necessários na opção de Design
+   - Clique em "Editar site" para realizar o front-end da aplicação contendo os elementos, as informações, seções, páginas, menu;
+   - Realize os ajustes necessários na opção de Design;
 
 ![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-2. **Carregue o script no Workbench**:
-   - Com o script carregado, revise as instruções SQL para garantir que tudo está correto.
+   - Edite o site para a visualização nas plataformas Deskop e Mobile para proporcionar uma experiência multiplataforma.
+     
 
-   ![Selecionando script](https://github.com/user-attachments/assets/4d3fcc4d-d1b8-475e-90b2-b58bfc61ec8f)
+2.1.2 **Salvar, Visualizar e Publicar**:
+   - Após as edições salve o projeto;
+   - Visualize para a verificação das telas e funcionalidades;
+   - Publique para disponibilizar o site para acesso ao público.
+
+![image](https://github.com/user-attachments/assets/ed07690d-d9b1-42c9-a53c-e0df14077131)
+
 
 3. **Execute o script**:
    - Clique no botão de **Executar** (ícone de raio) ou pressione **Ctrl + Enter** para rodar o script e criar as tabelas e o usuário padrão.
