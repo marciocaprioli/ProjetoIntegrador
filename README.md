@@ -1,10 +1,15 @@
-# Projeto Fullstack: Projeto integrador transdiciplinar 2
+Nome: Márcio Caprioli Dias
+RGM: 26590905
+Turma: 8º Semestre de Engenharia de Software
+Universidade Cruzeiro do Sul
 
-Este projeto tem como objetivo desenvolver um sistema de gestão de consumo de energia para condomínios e residências, oferecendo maior controle e transparência sobre o uso de energia elétrica para moradores e administradores. A plataforma permite que os moradores registrem e acompanhem seu consumo mensal, com opções de visualização por período, gráficos detalhados e comparação com meses anteriores. Além disso, o sistema oferece funcionalidades administrativas para garantir a precisão dos dados de consumo e relatórios completos.
+# Projeto Integrador Transdisciplinar (PIT) II
 
-## Utils
+O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela internet (e-commerce). A plataforma permite que seja acessado através das plataformas Desktop e Mobile, e o cliente realize as compras dos produtos de onde estiver. Além disso, o sistema oferece funcionalidades de comunicação via Whatsapp com um colaborador da loja para tirar dúvidas e auxiliar o cliente nas suas compras.
 
-- **História de usuários**: [histórias](./documentacoes/historia_de_usuario_2.docx)
+## Menu
+
+- **História de usuários**: [histórias](./Documentação do projeto/PIC_atividade_engenharia_software_I.pdf)
 - **Diagrama de banco de dados**: [imagem](./documentacoes/diagrama_de_banco_de_dados.PNG)
 - **Diagrama de implantação**: [imagem](./documentacoes/diagrama_de_implantacao.png)
 - **Diagrama de caso de uso**: [imagem](./documentacoes/caso_de_uso.PNG)
@@ -12,8 +17,8 @@ Este projeto tem como objetivo desenvolver um sistema de gestão de consumo de e
 
 ## Pré-requisitos
 
-- **Flutter SDK**: [Instalar Flutter](https://docs.flutter.dev/get-started/install)
-- **Node.js e npm**: [Instalar Node.js 18.20.4](https://nodejs.org/pt/blog/release/v18.20.4)
+- **WIX**: [Log in](https://pt.wix.com)
+- **GITHUB**: [Repositório](https://github.com)
 - **MySQL**: [Instalar MySQL](https://dev.mysql.com/downloads/installer/)
 
 ---
