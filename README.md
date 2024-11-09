@@ -40,7 +40,7 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
    - Crie o projeto
    - Iniciar chat com o apoio da IA para obter um painel de controle personalizado
 
-![Criar projeto](https://github.com/user-attachments/assets/2310432d-d3db-45d6-9771-4e308f299137)
+![Criar projeto]([https://github.com/user-attachments/assets/2310432d-d3db-45d6-9771-4e308f299137](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg))
 
    - 
 
