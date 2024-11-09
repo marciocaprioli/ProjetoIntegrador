@@ -35,20 +35,34 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 
 #### **Passos para criar o projeto:**
 
-1. **Abra o site do WIX**.
+2.1. **Abra o site do WIX**.
    - Realize o login
    - Crie o projeto
    - Iniciar chat com o apoio da IA para obter um painel de controle personalizado
 
 ![Criar projeto](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-   - 
+   - Descreva com detalhes as histótias de usuários para a criação dos painéis de cada tela da aplicação
+   - Será direcionado para as configurações de domínio, caso queira vincular um já existente, ou criar um novo
+   - Configure os pedidos online
+   - Configure os métodos de pagamentos
 
-1. **Utilize o script SQL do repositório para gerar as tabelas e o usuário padrão**:
-   - Abra o MySQL Workbench.
-   - No menu superior, clique em **File > Open SQL Script...** e selecione o script SQL disponível no repositório.
+![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
-   ![Abrindo script](https://github.com/user-attachments/assets/c9d2b559-e728-4930-a6ac-2a1bd13292b3)
+   - Após as configurações, edite o catálogo incluíndo as fotos e dados dos produtos que serão divulgados na aplicação
+
+![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+
+   - Edite as automações disponíveis na plataforma para otimizar as tarefas da aplicação
+
+![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+
+2.1.1 **Edição do site**:
+
+   - Clique em "Editar site" para realizar o front-end da aplicação contendo os elementos, as informações, seções, páginas, menu
+   - Realize os ajustes necessários na opção de Design
+
+![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
 
 2. **Carregue o script no Workbench**:
    - Com o script carregado, revise as instruções SQL para garantir que tudo está correto.
