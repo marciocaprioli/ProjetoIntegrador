@@ -8,6 +8,8 @@
 
 O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela internet (e-commerce). A plataforma permite que seja acessado através das plataformas Desktop e Mobile, e o cliente realize as compras dos produtos de onde estiver. Além disso, o sistema oferece funcionalidades de comunicação via Whatsapp com um colaborador da loja para tirar dúvidas e auxiliar o cliente nas suas compras.
 
+Segue o material teórico do projeto solicitado: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/PIT_2_Sem_2024_Engenharia_de_Software%20-%20Materia%20Te%C3%B3rico.pdf)
+
 ---
 ## Situação 1: Revisão e Melhoria da Documentação
 
@@ -19,17 +21,16 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 
 ## Menu
 
-- **História de usuários**: [pdf](.Documenta%C3%A7%C3%A3o%20do%20projeto/PIC_atividade_engenharia_software_I.pdf)
-- **Diagrama de Classe**: [pdf](./documentacoes/diagrama_de_banco_de_dados.PNG)
-- **Diagrama de implantação**: [imagem](./documentacoes/diagrama_de_implantacao.png)
-- **Diagrama de caso de uso**: [imagem](./documentacoes/caso_de_uso.PNG)
-- **whireframe**: [link](https://whimsical.com/LEfbfkMyv4sePLp43sAfW6)
+- **História de usuários**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/f849525b9dbaa0d43dda703832314437e22fe7e2/Documenta%C3%A7%C3%A3o%20do%20projeto/PIC_atividade_engenharia_software_I.pdf)
+- **Diagrama de Classe**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/Diagrama%20de%20Classe.pdf)
+- **Mapa Conceitual**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/Mapa%20Conceitual.pdf)
+- **Mapa Navegacional**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/Mapa%20Navegacional%20-%20Site.pdf)
+- **Mockup ou Wireframe**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/Mockup%20ou%20Wireframe.pdf)
 
 ## Pré-requisitos
 
 - **WIX**: [Log in](https://pt.wix.com)
 - **GITHUB**: [Acessar e repositório](https://github.com)
-- **MySQL**: [Instalar MySQL](https://dev.mysql.com/downloads/installer/)
 
 ---
 ## Situação 2: Codificação e Desenvolvimento
@@ -85,6 +86,9 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 
 ![image](https://github.com/user-attachments/assets/ed07690d-d9b1-42c9-a53c-e0df14077131)
 
+2.1.3 **Código Fonte**
+
+   - Acesse o código fonte [](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/C%C3%B3digo%20Fonte.sql)
 ---
 
 Seguindo esses passos, você terá um site com a codificação e design contruído baseado em drag-and-drop, podendo ser no-code ou low-code, utilizando o banco de dados nativo, Wix Data, com hospedagem gratuita, com recursos limitados, ou realizando o upgrade para ter acesso a mais ferramentas.
