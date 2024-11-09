@@ -19,8 +19,8 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 
 ## Menu
 
-- **História de usuários**: [pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/PIC_atividade_engenharia_software_I.pdf)
-- **Diagrama de banco de dados**: [imagem](./documentacoes/diagrama_de_banco_de_dados.PNG)
+- **História de usuários**: [pdf](.Documenta%C3%A7%C3%A3o%20do%20projeto/PIC_atividade_engenharia_software_I.pdf)
+- **Diagrama de Classe**: [pdf](./documentacoes/diagrama_de_banco_de_dados.PNG)
 - **Diagrama de implantação**: [imagem](./documentacoes/diagrama_de_implantacao.png)
 - **Diagrama de caso de uso**: [imagem](./documentacoes/caso_de_uso.PNG)
 - **whireframe**: [link](https://whimsical.com/LEfbfkMyv4sePLp43sAfW6)
