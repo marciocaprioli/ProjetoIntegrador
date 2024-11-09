@@ -101,3 +101,16 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
             ▪ Funcionalidade não testada (justificativa)
    - Disponibilizado o template para os testadores para realizarem a avaliação utilizando o Forms do Google através do link: [](https://docs.google.com/forms/d/e/1FAIpQLScP8cHXgu7nQErWbIlz8cFP1_B7nQv5eEoPRXNSn18nxjX_9g/viewform )
    - As respostas foram compiladas no arquivo PDF [Testes realizados/Testes realizados.pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Testes%20realizados/Testes%20realizados.pdf)
+   - Após os feedbakcs, e levando em considerações o ajustes pertinentes da aplicação, Log In, Newslatter, Forma de Pagamentos no carrinho de compras, foram ajustados conforme a ferramenta tinha disponível na verão gratuita.
+   - E para detalhar segue o video explicando quais foram as mudanças adotadas com base no feedback &&&&&&&
+
+---
+## Conclusão
+
+   - Após a elaboração, ajustes e vários levantamentos, estudos de caminhos e plataformas para elaborar este projeto, e seguinte estas etapas, consegui fazer na prática um site "do zero" que tenha usabilidade aceitável para o público, com fácil navegabilidade em multilataformas, e seja funcional.
+   - Como é importante o feedback dos usuários para realizar os ajustes pertinentes e proporcinar uma experiência positiva na jornada de uso.
+
+---
+## Agradecimentos
+
+   - Agradeço a minha família por toda a compreensão e apoio, a Deus por manter a minha fé viva e manter a minha persisência nesta jornada de aprendizado, e em especial a minha esposa e filhos por acreditar na minha capacidade e resiliência.
