@@ -40,29 +40,34 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
    - Crie o projeto;
    - Iniciar chat com o apoio da IA para obter um painel de controle personalizado;
 
-![Criar projeto](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+![1 Criar projeto Captura de tela_9-11-2024_91051_manage wix com](https://github.com/user-attachments/assets/0f637dab-07aa-4b70-b259-6ab41e28bc1d)
+
 
    - Descreva com detalhes as histótias de usuários para a criação dos painéis de cada tela da aplicação;
    - Será direcionado para as configurações de domínio, caso queira vincular um já existente, ou criar um novo;
    - Configure os pedidos online;
    - Configure os métodos de pagamentos;
 
-![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+![2 Captura de tela_9-11-2024_9294_manage wix com](https://github.com/user-attachments/assets/458671e6-9c05-4b69-9f6e-bb0c8be75361)
+
 
    - Após as configurações, edite o catálogo incluíndo as fotos e dados dos produtos que serão divulgados na aplicação;
 
-![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+![3 Captura de tela_9-11-2024_93240_manage wix com](https://github.com/user-attachments/assets/d9bd172b-2d12-41f1-ad44-8662185ddedf)
+
 
    - Edite as automações disponíveis na plataforma para otimizar as tarefas da aplicação.
 
-![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+![4 Captura de tela_9-11-2024_93439_manage wix com](https://github.com/user-attachments/assets/d467e0ce-9171-4680-bd8c-bb1902cb2b85)
+
 
 2.1.1 **Edição do site**:
 
    - Clique em "Editar site" para realizar o front-end da aplicação contendo os elementos, as informações, seções, páginas, menu;
    - Realize os ajustes necessários na opção de Design;
 
-![Configurações](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Documenta%C3%A7%C3%A3o%20do%20projeto/imagens/1%20Criar%20projeto%20Captura%20de%20tela_9-11-2024_91051_manage.wix.com.jpeg)
+![5 Captura de tela_9-11-2024_93946_editor wix com](https://github.com/user-attachments/assets/ef1afac5-e217-40e5-9e72-0d1d13a7ae30)
+
 
    - Edite o site para a visualização nas plataformas Deskop e Mobile para proporcionar uma experiência multiplataforma.
      
