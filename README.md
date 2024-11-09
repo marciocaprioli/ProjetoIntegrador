@@ -88,7 +88,7 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 
 2.1.3 **Código Fonte**
 
-   - Acesse o código fonte [](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/C%C3%B3digo%20Fonte.sql)
+   - Acesse o código fonte [sql](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/C%C3%B3digo%20Fonte.sql)
 ---
 
 Seguindo esses passos, você terá um site com a codificação e design contruído baseado em drag-and-drop, podendo ser no-code ou low-code, utilizando o banco de dados nativo, Wix Data, com hospedagem gratuita, com recursos limitados, ou realizando o upgrade para ter acesso a mais ferramentas.
