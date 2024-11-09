@@ -89,6 +89,10 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 2.1.3 **Código Fonte**
 
    - Acesse o código fonte [sql](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/C%C3%B3digo%20Fonte.sql)
+
+2.1.4 **Vídeo**
+
+   - Segue o vídeo contendo a explicação do desenvolvimento desta aplicação. []
 ---
 
 Seguindo esses passos, você terá um site com a codificação e design contruído baseado em drag-and-drop, podendo ser no-code ou low-code, utilizando o banco de dados nativo, Wix Data, com hospedagem gratuita, com recursos limitados, ou realizando o upgrade para ter acesso a mais ferramentas.
@@ -104,8 +108,8 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
             ▪ O que testou e não funcionou (descrição e o que precisa ser corrigido)
             ▪ Funcionalidade não testada (justificativa)
    - Disponibilizado o template para os testadores para realizarem a avaliação utilizando o Forms do Google através do link: [](https://docs.google.com/forms/d/e/1FAIpQLScP8cHXgu7nQErWbIlz8cFP1_B7nQv5eEoPRXNSn18nxjX_9g/viewform )
-   - As respostas foram compiladas no arquivo PDF [Testes realizados/Testes realizados.pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Testes%20realizados/Testes%20realizados.pdf)
-   - Após os feedbakcs, e levando em considerações o ajustes pertinentes da aplicação, Log In, Newslatter, Forma de Pagamentos no carrinho de compras, foram ajustados conforme a ferramenta tinha disponível na verão gratuita.
+   - As respostas foram compiladas no arquivo PDF [Testes realizados.pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Testes%20realizados/Testes%20realizados.pdf)
+   - Após os feedbakcs, e levando em considerações o ajustes pertinentes da aplicação: Log In, Newslatter e Forma de Pagamentos no carrinho de compras; foram realizados os ajustes conforme a ferramenta tinha disponível na verão gratuita.
    - E para detalhar segue o video explicando quais foram as mudanças adotadas com base no feedback &&&&&&&
 
 ---
