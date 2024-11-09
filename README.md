@@ -100,4 +100,4 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
             ▪ O que testou e não funcionou (descrição e o que precisa ser corrigido)
             ▪ Funcionalidade não testada (justificativa)
    - Disponibilizado o template para os testadores para realizarem a avaliação utilizando o Forms do Google através do link: [](https://docs.google.com/forms/d/e/1FAIpQLScP8cHXgu7nQErWbIlz8cFP1_B7nQv5eEoPRXNSn18nxjX_9g/viewform )
-   - As respostas foram compiladas no arquivo PDF []()
+   - As respostas foram compiladas no arquivo PDF Testes realizados/Testes realizados.pdf
