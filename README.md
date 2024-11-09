@@ -16,7 +16,7 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 - Antes de iniciar a elaboração da codificação do projeto na prática, foi realizado a revisão da documentação anterior (escopo, requisitos, diagramas UML, etc.);
 - Foi verificado se as informações estavam atualizadas e se todos os pontos críticos foram abordados;
 - Com o objetivo de manter um ciclo de melhorias, a cada período será identificado as áreas que precisam de maior clareza ou detalhes nas execuções;
-- Neste [arquivo]() terá acesso a mais informações e as orientações sobre a atualização do plano deste projeto.
+- Neste [arquivo](https://github.com/marciocaprioli/ProjetoIntegrador/blob/915c858a6be3e91bfc75ef8c9f75c09fcfbf09d0/Documenta%C3%A7%C3%A3o%20do%20projeto/Situa%C3%A7%C3%A3o%20Problema%201%20-%20GIT.odt) terá acesso a mais informações e as orientações sobre a atualização do plano deste projeto.
 - Ao longo da execução do projeto, foi compartilhado os documentos solicitando o feedback específico, perguntando sobre a clareza, usabilidade e quaiquer outros aspectos que possam ser melhorados.
 - Para manter tudo organizado, foi criado este repositório para incluir toda a documentação e códigos, com estrutura para facilitar o navegação.
 
@@ -87,11 +87,15 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 
 ![image](https://github.com/user-attachments/assets/ed07690d-d9b1-42c9-a53c-e0df14077131)
 
-2.1.3 **Código Fonte**
+2.1.3 **Mais informações**
+
+   - Segue [arquivo](https://github.com/marciocaprioli/ProjetoIntegrador/blob/915c858a6be3e91bfc75ef8c9f75c09fcfbf09d0/Documenta%C3%A7%C3%A3o%20do%20projeto/Situa%C3%A7%C3%A3o%20Problema%202%20-%20GIT.odt) com mais detalhes e informações para utilizar a plataforma Wix para desenvolvedores.
+
+2.1.4 **Código Fonte**
 
    - Acesse o código fonte [sql](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/C%C3%B3digo%20Fonte.sql)
 
-2.1.4 **Vídeo**
+2.1.5 **Vídeo**
 
    - Segue o vídeo contendo a explicação do desenvolvimento desta aplicação. []
 ---
