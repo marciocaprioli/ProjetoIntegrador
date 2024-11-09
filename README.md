@@ -114,3 +114,4 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
 ## Agradecimentos
 
    - Agradeço a minha família por toda a compreensão e apoio, a Deus por manter a minha fé viva e manter a minha persisência nesta jornada de aprendizado, e em especial a minha esposa e filhos por acreditar na minha capacidade e resiliência.
+   - E agradeço também ao professores, tutores, em especial ao Prof. Me. Artur Marques por apresentar de forma humana e prática as suas experiências nas aulas ministradas para o nosso curso de Engenharia de Dados.
