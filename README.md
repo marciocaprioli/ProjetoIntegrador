@@ -1,15 +1,10 @@
-Nome: Márcio Caprioli Dias
-RGM: 26590905
-Turma: 8º Semestre de Engenharia de Software
-Universidade Cruzeiro do Sul
+# Projeto Fullstack: Projeto integrador transdiciplinar 2
 
-# Projeto Integrador Transdisciplinar (PIT) II
+Este projeto tem como objetivo desenvolver um sistema de gestão de consumo de energia para condomínios e residências, oferecendo maior controle e transparência sobre o uso de energia elétrica para moradores e administradores. A plataforma permite que os moradores registrem e acompanhem seu consumo mensal, com opções de visualização por período, gráficos detalhados e comparação com meses anteriores. Além disso, o sistema oferece funcionalidades administrativas para garantir a precisão dos dados de consumo e relatórios completos.
 
-O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela internet (e-commerce). A plataforma permite que seja acessado através das plataformas Desktop e Mobile, e o cliente realize as compras dos produtos de onde estiver. Além disso, o sistema oferece funcionalidades de comunicação via Whatsapp com um colaborador da loja para tirar dúvidas e auxiliar o cliente nas suas compras.
+## Utils
 
-## Menu
-
-- **História de usuários**: [histórias](./Documentação do projeto/PIC_atividade_engenharia_software_I.pdf)
+- **História de usuários**: [histórias](./documentacoes/historia_de_usuario_2.docx)
 - **Diagrama de banco de dados**: [imagem](./documentacoes/diagrama_de_banco_de_dados.PNG)
 - **Diagrama de implantação**: [imagem](./documentacoes/diagrama_de_implantacao.png)
 - **Diagrama de caso de uso**: [imagem](./documentacoes/caso_de_uso.PNG)
@@ -17,8 +12,8 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 
 ## Pré-requisitos
 
-- **WIX**: [Log in](https://pt.wix.com)
-- **GITHUB**: [Acessar e repositório](https://github.com)
+- **Flutter SDK**: [Instalar Flutter](https://docs.flutter.dev/get-started/install)
+- **Node.js e npm**: [Instalar Node.js 18.20.4](https://nodejs.org/pt/blog/release/v18.20.4)
 - **MySQL**: [Instalar MySQL](https://dev.mysql.com/downloads/installer/)
 
 ---
@@ -28,44 +23,40 @@ O projeto tem como objetivo desenvolver um sistema de vendas de Cupcakes pela in
 ### 1. **Clone o repositório**
 
 ```bash
-   git clone https://github.com/marciocaprioli/ProjetoIntegrador.git
+   git clone https://github.com/arielsardinha/registro_de_energia.git
 ```
 
-### 2. **Crie o projeto no site do WIX**
+### 2. **Crie o banco de dados no MySQL Workbench**
 
-#### **Passos para criar o projeto:**
+Se você tiver dificuldades para instalar e configurar o MySQL, siga este passo a passo neste [vídeo](https://www.youtube.com/watch?v=s0YoPLbox40).
 
-1. **Abra o site do WIX**.
-   - Realize o login
-   - Crie o projeto
-   - Iniciar chat com o apoio da IA para obter um painel de controle personalizado
+#### **Passos para criar o banco e configurar o projeto:**
 
-![Criar projeto](https://github.com/user-attachments/assets/2310432d-d3db-45d6-9771-4e308f299137)
+1. **Abra o MySQL Workbench**.
+   - Certifique-se de que o serviço MySQL está rodando corretamente.
 
-   - 
-
-1. **Utilize o script SQL do repositório para gerar as tabelas e o usuário padrão**:
+2. **Utilize o script SQL do repositório para gerar as tabelas e o usuário padrão**:
    - Abra o MySQL Workbench.
    - No menu superior, clique em **File > Open SQL Script...** e selecione o script SQL disponível no repositório.
 
    ![Abrindo script](https://github.com/user-attachments/assets/c9d2b559-e728-4930-a6ac-2a1bd13292b3)
 
-2. **Carregue o script no Workbench**:
+3. **Carregue o script no Workbench**:
    - Com o script carregado, revise as instruções SQL para garantir que tudo está correto.
 
    ![Selecionando script](https://github.com/user-attachments/assets/4d3fcc4d-d1b8-475e-90b2-b58bfc61ec8f)
 
-3. **Execute o script**:
+4. **Execute o script**:
    - Clique no botão de **Executar** (ícone de raio) ou pressione **Ctrl + Enter** para rodar o script e criar as tabelas e o usuário padrão.
 
    ![Executando script](https://github.com/user-attachments/assets/2da67832-1186-4bdc-9d73-834e1f49418a)
 
-4. **Atualize o schema para verificar as tabelas criadas**:
+5. **Atualize o schema para verificar as tabelas criadas**:
    - No painel esquerdo, clique com o **botão direito** sobre o banco de dados e selecione **Refresh All** para atualizar a visualização.
 
    ![Atualizando schema](https://github.com/user-attachments/assets/ab3322df-9c3f-4b90-bc65-19ce50c064f7)
 
-5. **Verifique o usuário admin**:
+6. **Verifique o usuário admin**:
    - Agora, você deve ter um **usuário admin** registrado na tabela, pronto para ser utilizado nos testes e na aplicação.
 
    ![Usuário admin](https://github.com/user-attachments/assets/bb11c043-d033-4685-8de7-6d75798708d8)
