@@ -97,7 +97,7 @@ Segue o material teórico do projeto solicitado: [pdf](https://github.com/marcio
 
 2.1.5 **Vídeo**
 
-   - Segue o vídeo contendo a explicação do desenvolvimento desta aplicação. []
+   - Segue o vídeo contendo a explicação do desenvolvimento desta aplicação. [Youtube](https://youtu.be/F6e8CG5jGfg)
 ---
 
 Seguindo esses passos, você terá um site com a codificação e design contruído baseado em drag-and-drop, podendo ser no-code ou low-code, utilizando o banco de dados nativo, Wix Data, com hospedagem gratuita, com recursos limitados, ou realizando o upgrade para ter acesso a mais ferramentas.
