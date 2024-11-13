@@ -114,7 +114,7 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
             ▪ Funcionalidade não testada (justificativa)
    - Disponibilizado o template para os testadores para realizarem a avaliação utilizando o Forms do Google através do link: [](https://docs.google.com/forms/d/e/1FAIpQLScP8cHXgu7nQErWbIlz8cFP1_B7nQv5eEoPRXNSn18nxjX_9g/viewform )
    - As respostas foram compiladas no arquivo PDF [Testes realizados.pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Testes%20realizados/Testes%20realizados.pdf)
-   - Após os [feedbakcs](https://github.com/marciocaprioli/ProjetoIntegrador/tree/1052efaddf70aa49a82d4fde30d87e650e7fdd9b/Feedback%20e%20sugest%C3%B5es), e levando em considerações o ajustes pertinentes da aplicação: Log In, Newslatter e Forma de Pagamentos no carrinho de compras; foram realizados os ajustes conforme a ferramenta tinha disponível na versão gratuita.
+   - Após os [feedbakcs](https://github.com/marciocaprioli/ProjetoIntegrador/tree/main/Feedback%20e%20sugest%C3%B5es), e levando em considerações o ajustes pertinentes da aplicação: Log In, Newslatter e Forma de Pagamentos no carrinho de compras; foram realizados os ajustes conforme a ferramenta tinha disponível na versão gratuita.
    
    - Laudo de Qualidade
 
