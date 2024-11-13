@@ -115,7 +115,70 @@ Seguindo esses passos, você terá um site com a codificação e design contruí
    - Disponibilizado o template para os testadores para realizarem a avaliação utilizando o Forms do Google através do link: [](https://docs.google.com/forms/d/e/1FAIpQLScP8cHXgu7nQErWbIlz8cFP1_B7nQv5eEoPRXNSn18nxjX_9g/viewform )
    - As respostas foram compiladas no arquivo PDF [Testes realizados.pdf](https://github.com/marciocaprioli/ProjetoIntegrador/blob/main/Testes%20realizados/Testes%20realizados.pdf)
    - Após os [feedbakcs](https://github.com/marciocaprioli/ProjetoIntegrador/tree/1052efaddf70aa49a82d4fde30d87e650e7fdd9b/Feedback%20e%20sugest%C3%B5es), e levando em considerações o ajustes pertinentes da aplicação: Log In, Newslatter e Forma de Pagamentos no carrinho de compras; foram realizados os ajustes conforme a ferramenta tinha disponível na versão gratuita.
-   - E para detalhar segue o video explicando quais foram as mudanças adotadas com base no feedback &&&&&&&
+   
+   - Laudo de Qualidade
+
+Após os testes realizados segue o laudo de qualidade com suas respectivas considerações e ponderações:
+
+1. Funcionalidade de Login
+
+Descrição do Problema:
+O processo de login apresenta falhas técnicas que dificultam o acesso dos usuários às suas contas. Especificamente, os usuários não conseguem realizar o login com as credenciais fornecidas (email e senha), resultando em erro de autenticação ou mensagens ambíguas.
+
+Possíveis Causas:
+Erros no código de autenticação, possivelmente em relação ao banco de dados ou à validação de senhas.
+Falta de feedback visual claro quando as credenciais estão erradas ou quando há problemas técnicos.
+A página de login pode não redirecionar corretamente após a autenticação bem-sucedida.
+
+Impacto:
+Os usuários não conseguem acessar suas contas, o que pode resultar em frustração e abandono do site.
+Impede a personalização da experiência de compra, como o histórico de pedidos ou as preferências de sabores.
+Pode impactar negativamente a fidelização e a confiança dos consumidores.
+
+Recomendações:
+Revisar o processo de autenticação e corrigir quaisquer erros técnicos, como problemas de validação de senhas ou falhas no banco de dados.
+Implementar mensagens de erro mais claras e informativas para que os usuários saibam exatamente o que está acontecendo.
+Testar a funcionalidade em diferentes navegadores e dispositivos para garantir a compatibilidade.
+
+2. Inscrição na Newsletter
+
+Descrição do Problema:
+O formulário de inscrição para a newsletter não está funcionando corretamente. Usuários que tentam se inscrever não recebem uma confirmação ou a inscrição não é registrada no sistema.
+
+Possíveis Causas:
+Falha no sistema de envio de e-mails de confirmação ou problemas na integração com a plataforma de e-mail marketing.
+O formulário pode não validar corretamente os dados inseridos, como a confirmação do formato do endereço de e-mail.
+
+Impacto:
+A falha impede que os usuários se inscrevam para receber novidades e promoções, limitando as oportunidades de marketing e de contato com clientes potenciais.
+Pode afetar a taxa de crescimento da base de assinantes da newsletter e, consequentemente, reduzir o alcance das campanhas de marketing.
+
+Recomendações:
+Revisar a integração do sistema de inscrição com a plataforma de e-mail marketing.
+Testar o formulário de inscrição em diferentes condições (endereços de e-mail válidos e inválidos) para garantir que a validação e o processo de inscrição sejam eficazes.
+Garantir que os usuários recebam uma confirmação da inscrição e que possam gerenciar suas preferências de comunicação.
+
+3. Forma de Pagamento no Carrinho de Compras
+
+Descrição do Problema:
+O processo de pagamento no carrinho de compras apresenta falhas, como a impossibilidade de escolher ou processar uma forma de pagamento (cartão de crédito, boleto, etc.).
+
+Possíveis Causas:
+Erros na integração com as plataformas de pagamento, como gateways de pagamento ou APIs externas.
+Problemas de compatibilidade entre o site e as formas de pagamento disponibilizadas.
+Falta de clareza nas instruções sobre como finalizar o pagamento.
+
+Impacto:
+Usuários que chegam à etapa final de compra e não conseguem concluir o pagamento podem desistir da compra, levando ao abandono de carrinho.
+A falha pode afetar diretamente as receitas e a conversão do site.
+
+Recomendações:
+Verificar a integração com as plataformas de pagamento e garantir que todas as opções de pagamento sejam corretamente processadas.
+Realizar testes de pagamento com diferentes métodos para verificar se o problema é generalizado ou específico a uma forma de pagamento.
+Garantir que o processo de pagamento seja simples e intuitivo, com instruções claras e feedback adequado em caso de falha.
+Implementar um sistema de recuperação de carrinho abandonado para reengajar usuários que não completaram a compra.
+   
+   - E para detalhar segue o video explicando quais foram as mudanças adotadas com base no feedback [YouTube](https://youtu.be/hk9pHtSidmM)
 
 ---
 ## Conclusão
